@@ -1,0 +1,27 @@
+.display{
+    height: 100px;
+    border: 1px solid #bbb;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+#num-display {
+    text-align: right;
+    margin:20px;
+}
+
+.operator {
+    background: #dadada;
+}
+
+.footer {
+    text-align: right;
+}
+
+.footer h6 {
+    font-size: .5em;
+}
